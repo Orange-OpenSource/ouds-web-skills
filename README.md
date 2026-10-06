@@ -8,7 +8,7 @@ Once installed, your AI coding agent knows the OUDS Web components, layout, util
 
 | Skill | Description | Applies to |
 | --- | --- | --- |
-| [`using-ouds-web-1.5`](./using-ouds-web-1.5) | Reference for OUDS Web: components, layout, utilities, foundation (typography, color modes, CSS variables, Sass), getting started. | OUDS Web **1.5.x** |
+| [`using-ouds-web-version-1-5`](./using-ouds-web-version-1-5) | Reference for OUDS Web: components, layout, utilities, foundation (typography, color modes, CSS variables, Sass), getting started. | OUDS Web **1.5.x** |
 | [`migrate-to-ouds-web`](./migrate-to-ouds-web) | Guided migration from OB1, Boosted or an older OUDS Web version, using the `@ouds/web-migrate` CLI. | Any source version |
 
 ## Installation
@@ -21,7 +21,7 @@ The command is interactive and lets you choose which skills to install.
 
 ## Versioning
 
-The `using-ouds-web-<version>` skill is tied to a specific version of the OUDS Web library, indicated by the suffix in its name (e.g. `1.5` for OUDS Web 1.5.x).
+The `using-ouds-web-version-<major>-<minor>` skill is tied to a specific version of the OUDS Web library, indicated by the suffix in its name (e.g. `1-5` for OUDS Web 1.5.x).
 
 A new skill folder is generated in this repository at each release of the library.
 
