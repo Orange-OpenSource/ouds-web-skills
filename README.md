@@ -8,6 +8,7 @@ Once installed, your AI coding agent knows the OUDS Web components, layout, util
 
 | Skill | Description | Applies to |
 | --- | --- | --- |
+| [`using-ouds-web-version-1-6`](./using-ouds-web-version-1-6) | Reference for OUDS Web: components, layout, utilities, foundation (typography, color modes, CSS variables, Sass), getting started. | OUDS Web **1.6.x** |
 | [`using-ouds-web-version-1-5`](./using-ouds-web-version-1-5) | Reference for OUDS Web: components, layout, utilities, foundation (typography, color modes, CSS variables, Sass), getting started. | OUDS Web **1.5.x** |
 | [`migrate-to-ouds-web`](./migrate-to-ouds-web) | Guided migration from OB1, Boosted or an older OUDS Web version, using the `@ouds/web-migrate` CLI. | Any source version |
 
